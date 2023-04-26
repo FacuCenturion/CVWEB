@@ -30,11 +30,6 @@ img {
     margin-bottom: 0px;
 }
 
-.imgtext{
-    margin-left: 10px;
-
-}
-
 .header .nav-links{
     list-style: none;
     text-decoration: none;
@@ -46,7 +41,6 @@ img {
     display: inline-block;
     padding: 0 20px;
     text-decoration: none;
-    
 }
 
 .header .nav-links li:hover{
@@ -56,10 +50,6 @@ img {
 .header .nav-links a{
     color: rgb(255, 255, 255);
     text-decoration: none;
-}
-
-.header .nav-links li a:hover{
-    color: beige;
 }
 
 .header .nav-links li a:hover{
@@ -92,7 +82,7 @@ img {
 .footer {
     background-color: #6f6f6f;
     color: white;
-    padding: 10px;
+    padding: 0px;
     text-align: center;
     position: fixed;
     left: 0;
